@@ -65,6 +65,10 @@ To become a strong software engineer with a solid foundation in **development, p
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Alwaz1143&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+### ☕ Support My Work
+If you like my projects, you can [Support Me on chai4me](https://chai4.me/alwaz)!
+
+---
 
 ## 🏆 GitHub Trophies
 
